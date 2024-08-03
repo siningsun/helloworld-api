@@ -1,4 +1,4 @@
-package com.applepie.helloworldapi.dao;
+package com.applepie.helloworldapi.model;
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;
 import java.io.Serializable;
